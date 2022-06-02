@@ -1,6 +1,8 @@
 Testing TCP Keepalives on Linux
 -------------
 
+See [https://blog.cloudflare.com/when-tcp-sockets-refuse-to-die/](https://blog.cloudflare.com/when-tcp-sockets-refuse-to-die/)
+
 Various scripts for testing behaviour of SO_KEEPALIVE, TCP_KEEPIDLE,
 TCP_KEEPINTVL, TCP_KEEPCNT and TCP_USER_TIMEOUT linux socket toggles.
 
